@@ -1,0 +1,25 @@
+# Insurance Company - Car Insurance Landing Page
+
+## About
+This is a car insurance landing page for a Saudi Arabia-based insurance company.
+
+## Technologies
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- No frameworks or libraries
+
+## Features
+- Responsive design
+- RTL support (Arabic)
+- SEO optimized
+- Schema markup
+- Contact form with reCAPTCHA
+- FAQ accordion
+- Comparison table
+- Countdown timer
+
+## Contact
+Email: info@insurance.com
+Phone: +966 12 345 6789
+
